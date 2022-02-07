@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/md_marufsarker/projects](https://www.behance.net/md_marufsarker/projects)
+- 👨‍💻 All of my projects are available at [behance](https://www.behance.net/md_marufsarker/projects)
 
-- 📝 I regularly write articles on [https://www.facebook.com/mdmarufsarker21](https://www.facebook.com/mdmarufsarker21)
+- 📝 I regularly write articles on [facebook](https://www.facebook.com/mdmarufsarker21)
 
 - 💬 Ask me about **Web Development**
 
