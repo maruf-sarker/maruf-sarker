@@ -19,3 +19,8 @@ Github
 
 ---
 [![](https://visitcount.itsvg.in/api?id=maruf-sarker&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">  
+  <a href="https://app.daily.dev/mdmarufsarker"><img align="center" src="https://api.daily.dev/devcards/b6878efd97f14b6a9e21dce17627159f.png?r=30z" width="400" alt="Md. Maruf Sarker's Dev Card"/></a>
+</p>
+
