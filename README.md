@@ -27,10 +27,10 @@
 ### 🎬 Latest  Blogs posts ~
 
 <!-- BLOG-POST-LIST:START -->
-- [Run PHP MySQL Projects on Linux](https://dev.to/mdmarufsarker/run-php-mysql-projects-on-linux-31nc)
-- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
-- [পর্দার আড়ালে কী চলে? অপারেটিং সিস্টেমের রহস্য উন্মোচন](https://dev.to/mdmarufsarker/prdaar-aaddaale-kii-cle-apaarettin-sisttemer-rhsy-unmocn-203o)
-- [Compiled Language vs Interpreted Language](https://dev.to/mdmarufsarker/compiled-language-vs-interpreted-language-2o4c)
+- [Run PHP MySQL Projects on Linux](https://forem.com/mdmarufsarker/run-php-mysql-projects-on-linux-31nc)
+- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://forem.com/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
+- [পর্দার আড়ালে কী চলে? অপারেটিং সিস্টেমের রহস্য উন্মোচন](https://forem.com/mdmarufsarker/prdaar-aaddaale-kii-cle-apaarettin-sisttemer-rhsy-unmocn-203o)
+- [Compiled Language vs Interpreted Language](https://forem.com/mdmarufsarker/compiled-language-vs-interpreted-language-2o4c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 Tech Stack ~
